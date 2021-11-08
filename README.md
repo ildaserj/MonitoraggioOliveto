@@ -11,9 +11,9 @@
 
 
 ### Design Pattern utilizzati 
-     * **Observer**: Ulitizzato in due casi, la prima relazione tra la calle **Ulivo** (Subject) e **Monitoraggio Ulivo** (Observer);
+     * `Observer` : Ulitizzato in due casi, la prima relazione tra la calle **Ulivo** (Subject) e **Monitoraggio Ulivo** (Observer);
 		     la seconda relazione tra **Campo** (Sunject) e **MonitoraggioTerreno** (Observer)
-     * **Strategy**: L'interfaccia **CuraMalattiaUlivo** generalizza le due sottoclassi **CuraBiologica** e **Pesticidi**
+     * `Strategy` : L'interfaccia **CuraMalattiaUlivo** generalizza le due sottoclassi **CuraBiologica** e **Pesticidi**
 
 
 La descrizione dell'intero programma nel file **Relazione.docx**
