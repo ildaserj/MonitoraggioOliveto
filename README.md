@@ -16,4 +16,4 @@ Viene effettuato anche un controllo, attraverso delle analisi chimiche del suolo
    * **Strategy** : L'interfaccia **CuraMalattiaUlivo** generalizza le due sottoclassi **CuraBiologica** e **Pesticidi**
 
 
-La descrizione dell'intero programma nel file **Relazione.docx**
+La descrizione dell'intero programma nel file `Relazione.docx`
