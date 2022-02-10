@@ -11,7 +11,7 @@ Viene effettuato anche un controllo, attraverso delle analisi chimiche del suolo
 
 
 ### Design Pattern utilizzati 
-   * **Observer** : Ulitizzato in due casi, la prima relazione tra la calle **Ulivo** (Subject) e **Monitoraggio Ulivo** (Observer);
+   * **Observer** : Ulitizzato in due casi, la prima relazione tra la classe **Ulivo** (Subject) e **Monitoraggio Ulivo** (Observer);
 		     la seconda relazione tra **Campo** (Sunject) e **MonitoraggioTerreno** (Observer)
    * **Strategy** : L'interfaccia **CuraMalattiaUlivo** generalizza le due sottoclassi **CuraBiologica** e **Pesticidi**
 
